@@ -87,7 +87,7 @@ export function DashboardSidebar({ links }: DashboardSidebarProps) {
                     />
                   ) : (
                     <PanelRightClose
-                      size={18}
+                      size={12}
                       className="stroke-muted-foreground"
                     />
                   )}
