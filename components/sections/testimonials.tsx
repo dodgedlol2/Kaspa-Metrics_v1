@@ -23,7 +23,7 @@ export default function Testimonials() {
                     <div className="relative mb-4 flex items-center gap-3">
                       <span className="relative inline-flex size-10 shrink-0 items-center justify-center rounded-full text-base">
                         <Image
-                          width={100}
+                          width={200}
                           height={100}
                           className="size-full rounded-full border"
                           src={item.image}
